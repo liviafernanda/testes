@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T20:00:50.925Z" agent="5.0 (Windows)" etag="43j5HhaKGWIAD75q0T5k" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T22:43:21.611Z" agent="5.0 (Windows)" etag="ja2_EoWfCRuB11gH4vSy" version="13.7.1" type="github">
   <diagram id="9rtOQBFeyjXl_FGlEI51" name="Page-1">
     <mxGraphModel dx="868" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,16 +46,13 @@
         <mxCell id="O3_qNe8abN4ICVSeK1On-11" value="103 artigos em texto completo avaliados para elegibilidade" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O3_qNe8abN4ICVSeK1On-13" value="27 artigos em texto completo excluídos, com justificativa" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O3_qNe8abN4ICVSeK1On-13" value="28 artigos em texto completo excluídos, com justificativa e 37 artigos excluídos após nova definição temporal (2010 a 2014)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O3_qNe8abN4ICVSeK1On-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="O3_qNe8abN4ICVSeK1On-15" target="O3_qNe8abN4ICVSeK1On-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O3_qNe8abN4ICVSeK1On-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="O3_qNe8abN4ICVSeK1On-15" target="O3_qNe8abN4ICVSeK1On-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="O3_qNe8abN4ICVSeK1On-15" value="74 estudos incluídos em síntese qualitativa" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O3_qNe8abN4ICVSeK1On-15" value="38 estudos incluídos em síntese qualitativa" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O3_qNe8abN4ICVSeK1On-17" value="38 estudos incluídos em síntese quantitativa (meta-análise)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -69,9 +66,6 @@
         </mxCell>
         <mxCell id="O3_qNe8abN4ICVSeK1On-23" value="75 relatos duplicados" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="O3_qNe8abN4ICVSeK1On-37" value="36 artigos excluídos após nova definição temporal" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
