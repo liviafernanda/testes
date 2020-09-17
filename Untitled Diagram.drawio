@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-17T00:22:59.425Z" agent="5.0 (Windows)" etag="qx1hwLnZ8nkTzm0Ez_G4" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-17T00:32:04.463Z" agent="5.0 (Windows)" etag="BZyORsRpy98HtPVuTA0X" version="13.7.1" type="github">
   <diagram id="9rtOQBFeyjXl_FGlEI51" name="Page-1">
     <mxGraphModel dx="868" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="O3_qNe8abN4ICVSeK1On-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="O3_qNe8abN4ICVSeK1On-1" target="O3_qNe8abN4ICVSeK1On-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O3_qNe8abN4ICVSeK1On-1" value="687 relatos identificados nas fontes de busca " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O3_qNe8abN4ICVSeK1On-1" value="684 relatos identificados nas fontes de busca " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O3_qNe8abN4ICVSeK1On-4" value="Identificação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;rotation=270;" vertex="1" parent="1">
